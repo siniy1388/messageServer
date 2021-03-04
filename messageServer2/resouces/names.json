@@ -1,0 +1,24 @@
+{
+    "region": [
+        {
+            "name": "Russia",
+            "iprange": [
+                {
+                    "type": "home",
+                    "number": "141 111-1234"
+                }
+            ]
+        },
+        {
+            "firstName": "Flash",
+            "lastName": "Tompson",
+            "age": 23,
+            "phoneNumbers": [
+                {
+                    "type": "home",
+                    "number": "999 111-1234"
+                }
+            ]
+        }
+    ]
+}
